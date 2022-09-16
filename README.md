@@ -1,19 +1,31 @@
+# Become a Software Developer
+
 ![Become a Software Developer](/assets/hero-img.PNG)
 
-### [Become a Software Developer](https://www.linkedin.com/learning/paths/become-a-software-developer), a comprehensive course by [LinkedIn](https://www.linkedin.com/).
-
----
+_A comprehensive [course](https://www.linkedin.com/learning/paths/become-a-software-developer), by [LinkedIn](https://www.linkedin.com/)_
 
 ## Table of Contents
 
-- [Programming Foundations: Fundamentals]('#')
-- [Programming Foundations: Databases]('#')
-- [Succeeding in Web Development: Full Stack and Front End]('#')
-- [HTML Essential Training]('#')
-- [CSS Essential Training]('#')
-- [JavaScript Essential Training]('#')
-- [Learning Python]('#')
-- [Learning Java]('#')
-- [Learning C#]('#')
-- [Learning SQL Programming]('#')
-- [Programming Foundations: Web Security]('#')
+| **Sr#** | **Module**                                                                     |
+| :-----: | ------------------------------------------------------------------------------ |
+|    1    | [Programming Foundations: Fundamentals](#programming-foundations-fundamentals) |
+|    2    | [Programming Foundations: Databases]('#')                                      |
+|    3    | [Succeeding in Web Development: Full Stack and Front End]('#')                 |
+|    4    | [HTML Essential Training]('#')                                                 |
+|    5    | [CSS Essential Training]('#')                                                  |
+|    6    | [JavaScript Essential Training]('#')                                           |
+|    7    | [Learning Python]('#')                                                         |
+|    9    | [Learning Java]('#')                                                           |
+|   10    | [Learning C#]('#')                                                             |
+|   11    | [Learning SQL Programming]('#')                                                |
+|   11    | [Programming Foundations: Web Security]('#')                                   |
+
+## Programming Foundations: Fundamentals
+
+This module is about learning the basics of programming, learning how to setup your computer to run programs using **_CLI (command line interface)_** or **_IDE (integrated development environment)_**.
+
+Your will start writing progams using Python lanugage. In order to run Python programs into computer, Python needs to be installed on computer first. [Click here](https://www.python.org/downloads/) to download Python. After downloading Python, install it on your device. Make sure to check mark
+
+> Add Python 3.8 (Python version) to PATH
+
+![Add Python 3.8 (Python version) to PATH](/assets/install-python.png)
