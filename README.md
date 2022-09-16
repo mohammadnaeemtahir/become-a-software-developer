@@ -18,7 +18,7 @@ _A comprehensive [course](https://www.linkedin.com/learning/paths/become-a-softw
 |    9    | [Learning Java]('#')                                                           |
 |   10    | [Learning C#]('#')                                                             |
 |   11    | [Learning SQL Programming]('#')                                                |
-|   11    | [Programming Foundations: Web Security]('#')                                   |
+|   12    | [Programming Foundations: Web Security]('#')                                   |
 
 ## Programming Foundations: Fundamentals
 
