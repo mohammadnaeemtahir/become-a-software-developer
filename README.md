@@ -6,10 +6,10 @@ _A comprehensive [course](https://www.linkedin.com/learning/paths/become-a-softw
 
 ## Table of Contents
 
-| **Sr#** | **Module**                                                                     |
+| **Sr#** | **Module Title**                                                               |
 | :-----: | ------------------------------------------------------------------------------ |
 |    1    | [Programming Foundations: Fundamentals](#programming-foundations-fundamentals) |
-|    2    | [Programming Foundations: Databases]('#')                                      |
+|    2    | [Programming Foundations: Databases](#programming-foundations-databases)       |
 |    3    | [Succeeding in Web Development: Full Stack and Front End]('#')                 |
 |    4    | [HTML Essential Training]('#')                                                 |
 |    5    | [CSS Essential Training]('#')                                                  |
@@ -29,3 +29,5 @@ Your will start writing progams using Python lanugage. In order to run Python pr
 > Add Python 3.8 (Python version) to PATH
 
 ![Add Python 3.8 (Python version) to PATH](/assets/install-python.png)
+
+## Programming Foundations: Databases
